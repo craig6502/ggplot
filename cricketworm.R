@@ -2,6 +2,8 @@
 ######################
 # CRICKET DATA CUMULATIVE
 ######################
+# By Craig Duncan 2018-9
+# Creative Commons Non-Commercial Attribution Licence 3.0
 # Last updated 1 December 2018
 # This is good reading: https://thenewstack.io/r-package-drawing-layered-plots-with-ggplot2/
 ##################
