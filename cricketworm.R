@@ -22,20 +22,6 @@ library(ggrepel)  # repel labels for better positioning.  use geom_text_repel() 
 
 #START HERE
 #read in match data
-#mymatch <- read_csv("24-Nov-2018-Black-v-Navy_gamedata.csv", col_names = TRUE,skip=0) #predict columns without first 2
-#graphtitle="U11 Black (Team 1) v Navy (Team 2) \n24 November 2018 at Manning PS"
-#team1name="T1(Black)"
-#team2name="T2(Navy)"
-# 3-Nov-18-Navy-v-Gold_gamedata
-#mymatch <- read_csv("3-Nov-18-Navy-v-Gold_gamedata.csv", col_names = TRUE,skip=0)
-#graphtitle="U11 Gold (Team 1) v Navy (Team 2) \n3 November 2018 at Harold Rossiter"
-#team1name="T1(Gold)"
-#team2name="T2(Navy)"
-# Round 7 data
-#3mymatch <- read_csv("1-Dec-18-Navy-v-Green_gamedata.csv", col_names = TRUE,skip=0)
-#graphtitle="U11 Navy (Team 1) v Green (Team 2) \n1 December 2018 at Bentley PS"
-#team1name="T1(Navy)"
-#team2name="T2(Green)"
 # Round 10 data
 mymatch <- read_csv("2 Feb_gamedata.csv", col_names = TRUE,skip=0)
 graphtitle="U11 Gold (Team 1) v Navy (Team 2) \n2 February 2019 at Harold Rossiter"
